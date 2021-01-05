@@ -1,5 +1,7 @@
 # uvault
---
+[![GoDoc](https://godoc.org/github.com/marco-ostaska/uvault?status.svg)](https://godoc.org/github.com/marco-ostaska/uvault)
+[![Go Report Card](https://goreportcard.com/badge/github.com/marco-ostaska/uvault)](https://goreportcard.com/report/github.com/marco-ostaska/uvault)
+
     import "github.com/marco-ostaska/uvault"
 
 Package uvault creates simple user vaults for credentials

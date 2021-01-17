@@ -1,6 +1,8 @@
 # uvault
 [![GoDoc](https://godoc.org/github.com/marco-ostaska/uvault?status.svg)](https://godoc.org/github.com/marco-ostaska/uvault)
 [![Go Report Card](https://goreportcard.com/badge/github.com/marco-ostaska/uvault)](https://goreportcard.com/report/github.com/marco-ostaska/uvault)
+[![Build Status](https://travis-ci.com/marco-ostaska/uvault.svg?branch=main)](https://travis-ci.com/marco-ostaska/uvault)
+
 
     import "github.com/marco-ostaska/uvault"
 
